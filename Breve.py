@@ -1,3 +1,13 @@
+Los nombres de variables y funciones son claros y descriptivos --- Cumple
+Hay una docstring o comentario inicial que explica el propósito --- Cumple                       
+Los comentarios son útiles (no redundantes ni excesivos) --- No cumple
+La sangría y el espaciado son consistentes --- Cumple  
+El código está bien estructurado (bloques lógicos, sin líneas inútiles) --- Cumple                
+Se aplica la guía de estilo acordada --- Cumple  
+
+Bien Jean Cumpliste pero faltaron comentarios" 
+ATT Jean Julio
+
 MM2_TO_CM2 = 100
 MM2_TO_M2 = 1_000_000
 
@@ -20,3 +30,4 @@ def calcular_area_triangulo():
 
 
 calcular_area_triangulo()
+
