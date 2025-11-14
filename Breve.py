@@ -12,7 +12,7 @@ MM2_TO_CM2 = 100
 MM2_TO_M2 = 1_000_000
 
 def calcular_area_triangulo():
-    """Solicita base y altura en milímetros y muestra el área en mm², cm² y m²."""
+    # Solicita base y altura en milímetros y muestra el área en mm², cm² y m².
     try:
         base_mm = float(input("Ingrese la base del triángulo en milímetros: "))
         altura_mm = float(input("Ingrese la altura del triángulo en milímetros: "))
@@ -30,5 +30,6 @@ def calcular_area_triangulo():
 
 
 calcular_area_triangulo()
+
 
 
