@@ -1,6 +1,6 @@
 Los nombres de variables y funciones son claros y descriptivos --- Cumple
 Hay una docstring o comentario inicial que explica el propósito --- Cumple                       
-Los comentarios son útiles (no redundantes ni excesivos) --- No cumple
+Los comentarios son útiles (no redundantes ni excesivos) --- cumple
 La sangría y el espaciado son consistentes --- Cumple  
 El código está bien estructurado (bloques lógicos, sin líneas inútiles) --- Cumple                
 Se aplica la guía de estilo acordada --- Cumple  
@@ -30,4 +30,5 @@ def calcular_area_triangulo():
 
 
 calcular_area_triangulo()
+
 
